@@ -5,3 +5,6 @@ Papers:
 2. Nambiar, Athira M., Alexandre Bernardino, and Jacinto C. Nascimento. "Cross-context Analysis for Long-term View-point Invariant Person Re-identification via Soft-biometrics using Depth Sensor." VISIGRAPP (5: VISAPP). 2018.
 
 3. Nambiar, Athira M., et al. "Towards View-point Invariant Person Re-identification via Fusion of Anthropometric and Gait Features from Kinect Measurements." VISIGRAPP (5: VISAPP). 2017.
+
+
+Only some final main codes are included here. Rest will be added soon....
